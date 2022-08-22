@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(250, 244, 224);
+    font-family: 'Open Sans', sans-serif;
+}
+.banner{    
+    background-repeat: no-repeat;
+    text-align: center;
+} 
+
+.image-1{
+    border-radius: 50px;
+}
+.banner-part{
+    color: rgb(68, 54, 36);
+}
+.btn-1{
+    background-color: rgb(206, 240, 168);
+    border: 50px;
+    border-radius: 10px;
+    width: 190px;
+    height: 50px;
+    font-size: larger;
+  
+}
+span{
+    color: rgb(20, 27, 11);
+}
+.donation-part{
+text-align: center;
+}
+.donation-part-1{
+   text-align: center;
+}
+#parent-div{
+   
+   display: flex;
+}
+
+
+
+/************************
+PAYING OPTIONS 
+*************************/
+.butt-1{
+    background-color:rgb(240, 233, 212) ;
+    font-size: larger;
+    margin-left: 520px;
+    border: none;
+    width: 150px;
+    height: 150px;
+}
+.butt-2{
+    color:  rgb(27, 34, 18);
+    background-color:  rgb(224, 245, 200);
+    border-color: rgb(219, 243, 192) ;
+    font-size: larger;
+    margin-right: 20PX;
+    margin-left: 20PX;
+    width: 150px;
+    height: 150px;
+}
+.butt-3{
+    background-color:rgb(240, 233, 212) ;
+    font-size: larger;
+    border: none;
+    width: 150px;
+    height: 150px;
+}
+.butt-4{
+    background-color:rgb(240, 233, 212) ;
+    font-size: larger;
+    margin-right: 20PX;
+    margin-left: 20PX;
+    border: none;
+    width: 150px;
+    height: 150px;
+}
+.butt-5{
+    background-color:rgb(240, 233, 212) ;
+    font-size: larger;
+    border: none;
+    width: 150px;
+    height: 150px;
+}
+hr{
+    /* margin-top: 50px; */
+    width: 40%;
+}
+#option{
+    margin-left: 900px;
+    margin-top: 30px;
+}
+.butt-7{
+    margin-top: 25px;
+    background-color: rgb(206, 240, 168);
+    border: 50px;
+    border-radius: 10px;
+    width: 190px;
+    height: 50px;
+    font-size: larger;
+    margin-left: 857px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/********************
+     FOOTER PART
+********************/
+footer{
+    background-color: rgb(56, 51, 51);
+}
+#footer-1{
+    text-align: center;
+    color: rgb(184, 223, 146);
+    padding-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#footer-2{
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+}
