@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(250, 244, 224);
+    background-color: rgb(253, 250, 241);
     font-family: 'Open Sans', sans-serif;
 }
 .banner{    
@@ -128,3 +128,102 @@ footer{
     color: white;
     padding-bottom: 20px;
 }
+#plan{
+    text-align: center;
+}
+#plan-p{
+    text-align: center;
+}
+
+/********************
+     DONATE PLAN
+********************/
+
+#donate-plan{
+    display: flex;
+}
+.donate-pic1{
+    width: 50%;
+}
+.donate-pic2{
+    width: 40%;
+}
+.donate-pic3{
+    width: 30%;
+}
+.food{
+    background-color: rgb(240, 240, 243);
+    margin: 20px;
+    border-radius: 10px;
+}
+.shelter{
+    background-color: rgb(250, 239, 245);
+    margin: 20px;
+    border-radius: 10px;
+}
+.education{
+    background-color: rgb(247, 232, 215);
+    margin: 20px;
+    border-radius: 10px;
+}
+h3{
+    margin-left: 10px;
+}
+.div-p{
+    margin-left: 10px;
+}
+
+#donate-req{
+    display: flex;
+}
+.don-p1{
+    margin-right: 25px;
+    margin-left: 300px;
+}
+.don-img{
+    border-radius: 10px;
+}
+.don-h{
+    margin-top: 40px;
+}
+.don-btn{
+    background-color: rgb(206, 240, 168);
+    border: 50px;
+    border-radius: 10px;
+    width: 190px;
+    height: 50px;
+    font-size: larger;
+}
+
+/***********************
+   SUBSCRIPTION PART
+ **********************/
+
+ .subscri{
+    text-align: center;
+ }
+ #sub-div{
+    background-color: rgb(245, 226, 204);
+    text-align: center;
+    width: 1000px;
+    margin-left: 430px;
+    height: 250px;
+ }
+ #email{
+    margin-top: 125px;
+    border: none;
+    width: 340px;
+    height: 50px;
+    border-radius: 5px;
+ }
+ #sub-btn{
+    background-color: rgb(206, 240, 168);
+    border: 50px;
+    border-radius: 10px;
+    width: 190px;
+    height: 53px;
+    font-size: larger;
+ }
+ placeholder{
+    margin-left: 20px;
+ }
